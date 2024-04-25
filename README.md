@@ -10,7 +10,7 @@ In this repository, you'll discover a treasure trove of projects, each offering 
 
 ## Get in Touch
 
-Have a question, suggestion, or just want to chat about data science and social dynamics? 🤔 Don't hesitate to reach out! 📧 You can contact me via email at jacopo.nudo@gmail.com or connect with me on LinkedIn [Your LinkedIn Profile]. Let's geek out over data together! 🤓💬
+Have a question, suggestion, or just want to chat about data science and social dynamics? 🤔 Don't hesitate to reach out! 📧 You can contact me via email at jacopo.nudo@gmail.com Let's geek out over data together! 🤓💬
 
 ## Keep Exploring
 
